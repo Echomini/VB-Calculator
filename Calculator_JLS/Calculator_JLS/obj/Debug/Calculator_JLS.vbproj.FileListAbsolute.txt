@@ -1,0 +1,20 @@
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\bin\Debug\Calculator_JLS.exe.config
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\bin\Debug\Calculator_JLS.exe
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\bin\Debug\Calculator_JLS.pdb
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\bin\Debug\Calculator_JLS.xml
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.frmCalculator.resources
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.Resources.resources
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.vbproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.exe
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.xml
+c:\users\john\documents\visual studio 2012\Projects\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.pdb
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\bin\Debug\Calculator_JLS.exe.config
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.exe
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.xml
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.pdb
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\bin\Debug\Calculator_JLS.exe
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\bin\Debug\Calculator_JLS.pdb
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\bin\Debug\Calculator_JLS.xml
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.frmCalculator.resources
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.Resources.resources
+C:\Users\sprungejohnl01\Desktop\Calculator_JLS\Calculator_JLS\obj\Debug\Calculator_JLS.vbproj.GenerateResource.Cache
